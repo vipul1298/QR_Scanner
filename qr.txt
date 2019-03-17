@@ -1,0 +1,12 @@
+                                   Technologies/Framework used in Qr_code app
+1.IDE: Android Studio
+2.Programming language used : 
+	Java, for functionality
+	XML, for UI design
+3.'com.android.support.test.espresso:espresso-core:3.0.2' : for test compatibility 
+4.'com.google.android.gms:play-services-vision:11.0.2' : Google Vision API  
+5.setAutoFocusEnabled() : Google official library for autoFocus
+6.CameraSource : predefined method for scanning using Camera Hardware
+7.BarcodeDetector : Google Vision for Barcode detection. BarcodeDetector searches for barcodes in every supported format
+8.Camera Dependencies : "com.google.android.gms.vision.DEPENDENCIES"
+

@@ -39,9 +39,9 @@ public class MainActivity extends AppCompatActivity {
     BarcodeDetector barcodeDetector;
     CameraSource cameraSource;
     final int RequestCameraPermissionID = 1001;
-    Camera.Parameters params;
-    Camera camera;
-    SurfaceView cameraView;
+//    Camera.Parameters params;
+//    Camera camera;
+//    SurfaceView cameraView;
 //    boolean isFlash = false;
 
     @Override
